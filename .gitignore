@@ -36,7 +36,8 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-[Tt]humbs.db
+Thumbs.db
+thumbs.db
 desktop.ini
 *.
 *.sublime-workspace
