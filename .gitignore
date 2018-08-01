@@ -4,6 +4,7 @@
 *.class
 *.dll
 *.exe
+*.msi
 *.o
 *.so
 
@@ -38,3 +39,4 @@ ehthumbs.db
 Thumbs.db
 desktop.ini
 *.
+*.sublime-workspace
